@@ -15,7 +15,7 @@ The optimization is performed using the NSGA-II algorithm, generating a set of P
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The primary goal of this project is to support decision-making in building renovation by:
 
@@ -25,7 +25,7 @@ The primary goal of this project is to support decision-making in building renov
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 The optimization model follows a modular workflow:
 
@@ -42,7 +42,7 @@ The optimization model follows a modular workflow:
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 
 project_root/
 ├── config/        → parameter & settings
