@@ -99,3 +99,8 @@ project_root/
 │   └── (generated results)
 │
 └── init.py
+
+
+## 📊 Example Results
+
+![Pareto Matrix](Pareto_Matrix_spec_v01.png)
